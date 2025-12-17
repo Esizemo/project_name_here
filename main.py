@@ -1,7 +1,6 @@
-import requests
-
 def main():
-    print("Requests version:", requests.__version__)
+    print("Project setup complete.")
 
 if __name__ == "__main__":
     main()
+
