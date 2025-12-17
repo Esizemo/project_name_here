@@ -1,6 +1,11 @@
+from src.core import run
+
+
 def main():
-    print("Project setup complete.")
+    run()
+
 
 if __name__ == "__main__":
     main()
+
 
